@@ -1,3 +1,5 @@
 TOKEN = "5190029794:AAFVBQVLXEWwMniWm9siUzpKEaXg2AqXqVc"
-URL_JIHC = "http://www.jihc.kz"
-URL_APPLE = "https://www.apple.com"
+URL_Real = "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BB_%D0%9C%D0%B0%D0%B4%D1%80%D0%B8%D0%B4_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)"
+URL_Barcelona = "https://www.sports.ru/barcelona/"
+URL_ManCity = "https://www.mancity.com/"
+URL_Chelsea = "https://www.chelseafc.com/en"
